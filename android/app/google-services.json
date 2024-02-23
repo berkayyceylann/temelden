@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "968125070497",
+    "firebase_url": "https://temelden-ffcb3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "temelden-ffcb3",
+    "storage_bucket": "temelden-ffcb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968125070497:android:edb5b2a6c1886a24d2c4e0",
+        "android_client_info": {
+          "package_name": "com.example.temelden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968125070497-rihmi7rn70isf8eqschnf3300hbtu3oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZG8FBX-O3-rgfxxIiQEShw_IbJ7ZkUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968125070497-rihmi7rn70isf8eqschnf3300hbtu3oe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "968125070497-bmm7rjbhqr0keh66sispd1k608ea6d73.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.temelden"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
